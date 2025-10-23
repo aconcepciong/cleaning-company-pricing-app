@@ -1,7 +1,7 @@
 # SanCap Cleaning Calculator
 
 A Python-based console application designed to estimate house cleaning costs based on property size, cleaning type, and optional add-on services.  
-Originally created to support a small cleaning business, this tool demonstrates practical application of programming logic, data structures, and user interaction for business automation.
+Originally created to support a small cleaning business, this tool contains programming logic, data structures, and user interaction for business automation.
 
 ## Features
 
