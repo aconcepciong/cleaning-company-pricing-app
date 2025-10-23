@@ -1,4 +1,4 @@
-# SanCap Calculator
+# SanCap Cleaning Calculator
 
 # Sets the base price for small, medium, large and estate property
 BASE_RATE_BY_SIZE = {
